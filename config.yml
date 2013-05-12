@@ -1,0 +1,5 @@
+database:
+  driverClass: org.apache.derby.jdbc.EmbeddedDriver
+  url: jdbc:derby:db/velodrome;create=true
+  user: SA
+  password:

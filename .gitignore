@@ -1,0 +1,13 @@
+.DS_Store
+.classpath
+.project
+.idea
+*.sw?
+*.iml
+*.ipr
+*.iws
+libs
+reports
+target
+db
+derby.log
